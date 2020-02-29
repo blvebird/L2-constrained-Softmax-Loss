@@ -7,4 +7,4 @@ LFW : max 97%
 VGG softmax classification(1,024 random samples for each test) : max 99%  
 Trained by python_trainVGG_softmax_PyTorch.py
 
-![Alt text]( ./LFWeval.png "Accuracy")
+![Alt text]( ./LFW.png "Accuracy")
