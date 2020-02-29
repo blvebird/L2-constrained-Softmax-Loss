@@ -1,4 +1,4 @@
-# L2-constrained Softmax Loss
+# L2-constrained Softmax Loss for Face Recognition
 Train and validate VGGface2 dataset based on L2-constrained softmax loss.
 
 # Final Results
