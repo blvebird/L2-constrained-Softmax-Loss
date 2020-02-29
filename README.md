@@ -1,7 +1,7 @@
 # L2-constrained Softmax Loss
 Train and validate VGGface2 dataset based on L2-constrained softmax loss.
 
-# Final results
+# Final Results
 
 LFW : max 97%  
 VGG softmax classification : max 99%  
