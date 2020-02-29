@@ -1,6 +1,6 @@
 ###############################################################################
 #
-#   Image Recognition with CNN
+#   Image Recognition with CNN 
 # 
 #		Copyright	:: 
 #		Date        :: 2019.11.10
