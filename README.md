@@ -4,8 +4,9 @@ Train and validate VGGface2 dataset based on L2-constrained softmax loss.
 # The Final Results 
 
 LFW : max 97%  
-VGG Validation Set : max 97%  
-VGG Softmax Classification : max 99%  
-Trained by python_trainVGG_softmax_PyTorch.py
-
-![Alt text]( ./LFWeval.png "Accuracy")
+VGG Validation Set *1 : max 97%  
+VGG Softmax Classification *2 : max 99%  
+Trained by python_trainVGG_softmax_PyTorch.py  
+*1 Fixed 10,000 pairs in the training set    
+*2 1,024 samples randomly selected every step from the training set  
+![Alt text]( ./LFWvalid.png "Accuracy")
