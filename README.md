@@ -1,8 +1,10 @@
 # L2-constrained Softmax Loss for Face Verification
 Train and validate VGGface2 dataset based on L2-constrained softmax loss.
 
-# The Final Results 
+# Training with VGGface2
+![Alt text]( ./Spec.png "Confition")
 
+# The Final Results
 LFW : max 97%  
 VGG Validation Set *1 : max 97%  
 VGG Softmax Classification *2 : max 99%  
