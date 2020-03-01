@@ -2,7 +2,7 @@
 Train and validate VGGface2 dataset based on L2-constrained softmax loss.
 
 # Training with VGGface2
-![Alt text]( ./TableTrain.png "Confition")
+![Alt text]( ./TrainTable.png "Confition")
 
 # The Final Results
 LFW : max 97%  
