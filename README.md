@@ -11,4 +11,5 @@ VGG Softmax Classification *2 : max 99%
 Trained by python_trainVGG_softmax_PyTorch.py  
 *1 Fixed 10,000 pairs in the training set    
 *2 1,024 samples randomly selected every step from the training set  
+
 ![Alt text]( ./LFWvalid.png "Accuracy")
