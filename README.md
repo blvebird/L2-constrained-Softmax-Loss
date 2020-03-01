@@ -1,7 +1,7 @@
 # L2-constrained Softmax Loss for Face Verification
 Train and validate VGGface2 dataset based on L2-constrained softmax loss.
 
-# Training with VGGface2
+# Training on VGGface2
 ![Alt text]( ./Train_Table.png "Confition")
 
 # The Final Results
