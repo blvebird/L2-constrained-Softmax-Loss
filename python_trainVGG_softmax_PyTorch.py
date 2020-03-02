@@ -2,7 +2,7 @@
 #
 #   Image Recognition with CNN (using PyTorch libraries)
 # 
-#		Copyright   :: BLVRBIRD
+#		Copyright   :: BLVEBIRD
 #		Date        :: 2020.01.30
 #		CPU         :: **
 #		Language    :: Python
