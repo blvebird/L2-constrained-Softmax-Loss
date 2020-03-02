@@ -2,7 +2,7 @@
 #
 #   Image Recognition with CNN (using Keras libraries)
 # 
-#		Copyright	:: 
+#		Copyright   :: BLVEBIRD
 #		Date        :: 2019.11.10
 #		CPU         :: **
 #		Language    :: Python
